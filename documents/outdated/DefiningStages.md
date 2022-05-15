@@ -30,7 +30,7 @@ more than 3 nested names aren't welcomed.
 Proceed to the next step immediately without rebuilding project(it already broken at this point, trust us)
 
 #### other project files
-At this point you should change all `hyperskill.android.project.template` occurrences. IDE can help
+At this point you should change all `hyperskill.android.projectname` occurrences. IDE can help
 you here by Find All action. The checklist of files that should be fixed:
  - AndroidManifest.xml
  - nested packages in src/main/java folder and `package` in the kotlin files as well.
